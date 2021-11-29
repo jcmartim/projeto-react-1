@@ -11,7 +11,7 @@ class MapArray extends React.Component {
         posts: [],
         allPosts: [],
         page: 0,
-        postsPerPage: 2,
+        postsPerPage: 10,
         search: ''
     }
     //quando montado
